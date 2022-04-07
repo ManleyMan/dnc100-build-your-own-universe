@@ -1,0 +1,15 @@
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\bin\Debug\net6.0\Build Your Own Universe.exe
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\bin\Debug\net6.0\Build Your Own Universe.deps.json
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\bin\Debug\net6.0\Build Your Own Universe.runtimeconfig.json
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\bin\Debug\net6.0\Build Your Own Universe.dll
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\bin\Debug\net6.0\Build Your Own Universe.pdb
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.csproj.AssemblyReference.cache
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.AssemblyInfoInputs.cache
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.AssemblyInfo.cs
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.csproj.CoreCompileInputs.cache
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.dll
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\refint\Build Your Own Universe.dll
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.pdb
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\Build Your Own Universe.genruntimeconfig.cache
+C:\Users\sweez\project\Build Your Own Universe\Build Your Own Universe\obj\Debug\net6.0\ref\Build Your Own Universe.dll
